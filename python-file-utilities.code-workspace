@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "file-integrity"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "Scripts\\python.exe",
+		"python.pipenvPath": "Scripts\\pip.exe"
+	},
+}
